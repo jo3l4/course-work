@@ -1,0 +1,85 @@
+*{
+    padding: 0%;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+nav{
+    background: #8882e7bc;
+    height: 80px;
+    width: 100%;
+}
+label.logo{
+    color: rgb(255, 245, 245);
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+nav ul li{
+    color: rgb(58, 206, 142);
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+
+h1{
+    background-color: rgba(255, 202, 127, 0.805);
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+}
+p{
+    background-color: rgba(255, 202, 127, 0.805);
+    font-size: 25px;
+    padding: 15px;
+    margin: 15px;
+    font-family: inherit;
+}
+p1{
+    background-color: rgba(255, 202, 127, 0.805);
+    font-size: 25px;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+}
+
+
+p2{
+    background-color: rgb(154, 155, 238);
+    font-family: initial;
+    font-size: 25px;
+}
+
+
+h2{
+    background-color: brown;
+    padding: 20px;
+    font-size: 25px;
+    font-family: inherit;
+}
+p{
+    font-family: initial;
+   
+}
+*{
+    background-color: rgb(110, 93, 69);
+}
+h3{
+    background-color: brown;
+    padding: 20px;
+    font-size: 25px;
+}
